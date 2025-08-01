@@ -2,6 +2,9 @@
 
 # 🔒 WSO Shell - New and FULL Version !!
 
+
+![WSO Shell](wso-shell-php.png)
+
 ⚠️ **DISCLAIMER**  
 This project is strictly intended for **educational and ethical purposes** only.  
 Do not use this tool on systems you do not own or have explicit written permission to test.  
