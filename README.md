@@ -1,6 +1,6 @@
 # WSO-SHELL
 
-# 🔒 WSO Shell - Educational Version (For Legal Pentesting Only)
+# 🔒 WSO Shell - New and FULL Version !!
 
 ⚠️ **DISCLAIMER**  
 This project is strictly intended for **educational and ethical purposes** only.  
